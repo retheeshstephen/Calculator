@@ -176,7 +176,7 @@ button
     text-align: center;
     padding: 0px;
     background: transparent;
-    color: #c2c3c3 !important;
+    color: #0b254e !important;
     border: none !important;
     border-radius: 10px !important;
     height: 45px;
@@ -213,7 +213,7 @@ button:active
 }
 button:hover
 {
-    color: #696a6a !important;
+    color: #16b9b9 !important;
 }
 .btn-work:hover,
 .btn-equal:hover
